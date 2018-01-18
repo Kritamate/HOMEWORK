@@ -1,5 +1,5 @@
 
-<img src="url"> : https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg
+<a href="url"><img src="https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg"></a>  
 
 
 <b> คําสั่งต่างๆ ใน git </b>
