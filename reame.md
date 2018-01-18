@@ -1,11 +1,9 @@
 
-<img src="url"> :
+<img src="url"> : https://dwa5x7aod66zk.cloudfront.net/assets/pack/logo-github-fe55a081ff239877f791f5882f9c3cddc371653c88d9b06f504ea10f453996ed.jpg
 
 
-#<b> คําสั่งต่างๆ ใน git </b>
-
-     คำสั่ง |  ผลลัพธ์
-  ---|----	 
+<b> คําสั่งต่างๆ ใน git </b>
+	 
   git init | เอาไว้เพื่อสร้าง git repository เปล่าๆขึ้นมา โดย Git จะทำการสร้างโฟลเดอร์  .git ขึ้นมาภายในโปรเจ็คของเรา
   
   git status | เพื่อตรวจสอบสถานะ repository
