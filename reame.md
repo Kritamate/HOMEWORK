@@ -24,3 +24,6 @@
   
   git merge | เป็นการรวม branch ที่เราทำการเเก้ไขไปรวมกับ branch master 
   
+  จัดทำโดย 
+  <a href ="https://www.facebook.com/1.kritamate"> นายกฤตเมธ ลิ่วทิพา  5835512023  </a>
+  
