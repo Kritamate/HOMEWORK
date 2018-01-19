@@ -19,3 +19,11 @@
 10.git rm ชื่อไฟล์ที่ต้องการลบ
 
 11.git reset HEAD ชื่อไฟล์ที่ต้องการกู้กลับมาจากที่ลบไปเเล้ว
+
+git add .
+git stash  # hide your update
+git pull
+git stash pop # recover file
+git add 
+git commit -m "..."
+git push 
