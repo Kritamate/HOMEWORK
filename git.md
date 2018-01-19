@@ -15,3 +15,7 @@
 8.git reset HEAD ชื่อไฟล์ที่ถูก git add เเล้วจะยกเลิกการ add
 
 9.git reset --soft "HEAD^" (ยกเลิกการ commit)
+
+10.git rm ชื่อไฟล์ที่ต้องการลบ
+
+11.git reset HEAD ชื่อไฟล์ที่ต้องการกู้กลับมาจากที่ลบไปเเล้ว
