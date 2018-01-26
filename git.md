@@ -73,3 +73,5 @@ git merge --no-ff feature
 git log --oneline
 
 git checkout หมายเลขไอดี
+
+git push origin --delete branchต้องการลบไฟล์ทั้งหมด
